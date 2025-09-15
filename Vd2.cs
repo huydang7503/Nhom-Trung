@@ -170,3 +170,4 @@ public class BadSchoolProgram
         }
     }
 }
+system.out.println("huydang da sua o day")
