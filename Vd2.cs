@@ -19,7 +19,7 @@ public class BadSchoolProgram
         int menu = 0;
         while (menu != 99)
         {
-            Console.WriteLine("============= MENU CHINH =============");
+            Console.WriteLine("============== MENU CHINH ==============");
             Console.WriteLine("1. Quan ly Sinh vien");
             Console.WriteLine("2. Quan ly Giao vien");
             Console.WriteLine("3. Quan ly Mon hoc");
