@@ -335,3 +335,4 @@ public class BadSchoolProgram {
 }
 System.out.println("Congdo đã ghé qua đây  vui lonh ko chinh sua gi them ");
 System.out.println("Congdo đã ghé qua đây lần 2   vui lonh ko chinh sua gi them ");
+System.out.println("Congdo đã ghé qua đây lần 3   vui lonh ko chinh sua gi them ");
