@@ -125,7 +125,8 @@ public class BadSchoolProgram {
                                 }
                             }
                         }
-                        System.out.println("Da sap xep theo GPA.");
+                        // fix at 8:22 AM 15/9/2025
+                        System.out.println("Hoan thanh sap xep theo GPA.");
                     }
                 }
 
