@@ -332,3 +332,4 @@ public class BadSchoolProgram {
         }
     }
 }
+System.out.println("Congdo đã ghé qua đây  vui lonh ko chinh sua gi them ");
